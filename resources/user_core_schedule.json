@@ -1,0 +1,3608 @@
+{
+  "User_1": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 21
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 21
+    },
+    "Saturday": {
+      "start_hour": 6,
+      "end_hour": 20
+    },
+    "Sunday": {
+      "start_hour": 6,
+      "end_hour": 21
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 21
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 21
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 22
+    }
+  },
+  "User_10": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_100": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 11
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_101": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 11,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_102": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_103": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 15,
+      "end_hour": 22
+    },
+    "Saturday": {
+      "start_hour": 6,
+      "end_hour": 7
+    },
+    "Thursday": {
+      "start_hour": 4,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 4,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 21
+    }
+  },
+  "User_104": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_105": {
+    "Friday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_106": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_107": {
+    "Friday": {
+      "start_hour": 5,
+      "end_hour": 12
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 5,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_108": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 11
+    },
+    "Monday": {
+      "start_hour": 16,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 16,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 16,
+      "end_hour": 20
+    }
+  },
+  "User_109": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 12,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_11": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_110": {
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_111": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 12
+    },
+    "Thursday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 17,
+      "end_hour": 19
+    }
+  },
+  "User_112": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 11
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 13,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 12
+    }
+  },
+  "User_113": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 12
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 13
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_114": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 10
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_115": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_116": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_117": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_118": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 12
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    }
+  },
+  "User_119": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_12": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 20
+    }
+  },
+  "User_120": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_121": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 7,
+      "end_hour": 11
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_122": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_123": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 7,
+      "end_hour": 10
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_124": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_125": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    }
+  },
+  "User_126": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Sunday": {
+      "start_hour": 11,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_127": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 12
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_128": {
+    "Friday": {
+      "start_hour": 5,
+      "end_hour": 7
+    },
+    "Monday": {
+      "start_hour": 5,
+      "end_hour": 8
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 8
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 16
+    }
+  },
+  "User_129": {
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 10
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 12
+    }
+  },
+  "User_13": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 19
+    }
+  },
+  "User_130": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_131": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_132": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_133": {
+    "Friday": {
+      "start_hour": 12,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 12,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_134": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    }
+  },
+  "User_135": {
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    }
+  },
+  "User_136": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_137": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 13
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    }
+  },
+  "User_138": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 8
+    }
+  },
+  "User_139": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 12,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_14": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 10,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 19
+    }
+  },
+  "User_140": {
+    "Friday": {
+      "start_hour": 11,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 11,
+      "end_hour": 17
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 10,
+      "end_hour": 16
+    }
+  },
+  "User_141": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 13
+    }
+  },
+  "User_142": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 9
+    },
+    "Saturday": {
+      "start_hour": 11,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 13,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 11
+    },
+    "Tuesday": {
+      "start_hour": 17,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 12
+    }
+  },
+  "User_143": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 10
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_144": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    }
+  },
+  "User_145": {
+    "Thursday": {
+      "start_hour": 14,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 11,
+      "end_hour": 12
+    },
+    "Wednesday": {
+      "start_hour": 14,
+      "end_hour": 15
+    }
+  },
+  "User_146": {
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 14,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 10,
+      "end_hour": 13
+    }
+  },
+  "User_147": {
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 9
+    }
+  },
+  "User_148": {
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 11
+    }
+  },
+  "User_149": {
+    "Wednesday": {
+      "start_hour": 15,
+      "end_hour": 18
+    }
+  },
+  "User_15": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_16": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 16
+    }
+  },
+  "User_17": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_18": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 19
+    }
+  },
+  "User_19": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_2": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 17,
+      "end_hour": 20
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_20": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Thursday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 12,
+      "end_hour": 19
+    }
+  },
+  "User_21": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_22": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 16,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 20
+    }
+  },
+  "User_23": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_24": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_25": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 16
+    }
+  },
+  "User_26": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 17
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 16
+    }
+  },
+  "User_27": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_28": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_29": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 12,
+      "end_hour": 21
+    },
+    "Sunday": {
+      "start_hour": 12,
+      "end_hour": 21
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_3": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 16
+    }
+  },
+  "User_30": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 5,
+      "end_hour": 14
+    }
+  },
+  "User_31": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    }
+  },
+  "User_32": {
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_33": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 17
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_34": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Thursday": {
+      "start_hour": 10,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_35": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_36": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 14,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_37": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_38": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_39": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 11,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_4": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 14,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    }
+  },
+  "User_40": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_41": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_42": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_43": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 20
+    }
+  },
+  "User_44": {
+    "Friday": {
+      "start_hour": 11,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_45": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 11,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    }
+  },
+  "User_46": {
+    "Friday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_47": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    }
+  },
+  "User_48": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_49": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    }
+  },
+  "User_5": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_50": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Sunday": {
+      "start_hour": 12,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    }
+  },
+  "User_51": {
+    "Friday": {
+      "start_hour": 12,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 11,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_52": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 10,
+      "end_hour": 19
+    }
+  },
+  "User_53": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_54": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_55": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    }
+  },
+  "User_56": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    }
+  },
+  "User_57": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_58": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 12,
+      "end_hour": 20
+    }
+  },
+  "User_59": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 16,
+      "end_hour": 19
+    }
+  },
+  "User_6": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 15
+    }
+  },
+  "User_60": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 17
+    }
+  },
+  "User_61": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_62": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_63": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 19
+    }
+  },
+  "User_64": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 19
+    }
+  },
+  "User_65": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_66": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 11,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_67": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  },
+  "User_68": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 5,
+      "end_hour": 9
+    },
+    "Sunday": {
+      "start_hour": 5,
+      "end_hour": 13
+    },
+    "Thursday": {
+      "start_hour": 5,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    }
+  },
+  "User_69": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_7": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_70": {
+    "Friday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 10,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 13,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 16
+    }
+  },
+  "User_71": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_72": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    }
+  },
+  "User_73": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_74": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Tuesday": {
+      "start_hour": 10,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_75": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 14,
+      "end_hour": 18
+    },
+    "Sunday": {
+      "start_hour": 9,
+      "end_hour": 21
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_76": {
+    "Friday": {
+      "start_hour": 16,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 15,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 15,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 15,
+      "end_hour": 19
+    }
+  },
+  "User_77": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 17
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_78": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    }
+  },
+  "User_79": {
+    "Friday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_8": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 17,
+      "end_hour": 19
+    }
+  },
+  "User_80": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 11,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_81": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_82": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 10
+    },
+    "Monday": {
+      "start_hour": 12,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 12,
+      "end_hour": 13
+    },
+    "Wednesday": {
+      "start_hour": 17,
+      "end_hour": 19
+    }
+  },
+  "User_83": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Saturday": {
+      "start_hour": 7,
+      "end_hour": 11
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 15,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 10
+    }
+  },
+  "User_84": {
+    "Friday": {
+      "start_hour": 10,
+      "end_hour": 20
+    },
+    "Monday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_85": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 17
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Sunday": {
+      "start_hour": 10,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 18
+    }
+  },
+  "User_86": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 10,
+      "end_hour": 17
+    }
+  },
+  "User_87": {
+    "Friday": {
+      "start_hour": 5,
+      "end_hour": 14
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Sunday": {
+      "start_hour": 9,
+      "end_hour": 10
+    },
+    "Thursday": {
+      "start_hour": 5,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 5,
+      "end_hour": 13
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    }
+  },
+  "User_88": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 20
+    }
+  },
+  "User_89": {
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 12,
+      "end_hour": 20
+    }
+  },
+  "User_9": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 13
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 20
+    }
+  },
+  "User_90": {
+    "Friday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Sunday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 13
+    },
+    "Tuesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 6,
+      "end_hour": 14
+    }
+  },
+  "User_91": {
+    "Friday": {
+      "start_hour": 12,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 13,
+      "end_hour": 19
+    },
+    "Tuesday": {
+      "start_hour": 11,
+      "end_hour": 19
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 19
+    }
+  },
+  "User_92": {
+    "Friday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 15,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 9,
+      "end_hour": 19
+    }
+  },
+  "User_93": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_94": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 12,
+      "end_hour": 16
+    },
+    "Tuesday": {
+      "start_hour": 12,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 16
+    }
+  },
+  "User_95": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 15
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 14
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    }
+  },
+  "User_96": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Thursday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 11,
+      "end_hour": 20
+    }
+  },
+  "User_97": {
+    "Friday": {
+      "start_hour": 8,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 15,
+      "end_hour": 19
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 8,
+      "end_hour": 18
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 12
+    },
+    "Wednesday": {
+      "start_hour": 7,
+      "end_hour": 12
+    }
+  },
+  "User_98": {
+    "Friday": {
+      "start_hour": 9,
+      "end_hour": 19
+    },
+    "Monday": {
+      "start_hour": 9,
+      "end_hour": 20
+    },
+    "Saturday": {
+      "start_hour": 9,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 13,
+      "end_hour": 20
+    },
+    "Tuesday": {
+      "start_hour": 8,
+      "end_hour": 20
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 17
+    }
+  },
+  "User_99": {
+    "Friday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Monday": {
+      "start_hour": 8,
+      "end_hour": 15
+    },
+    "Saturday": {
+      "start_hour": 11,
+      "end_hour": 14
+    },
+    "Sunday": {
+      "start_hour": 8,
+      "end_hour": 16
+    },
+    "Thursday": {
+      "start_hour": 6,
+      "end_hour": 14
+    },
+    "Tuesday": {
+      "start_hour": 7,
+      "end_hour": 15
+    },
+    "Wednesday": {
+      "start_hour": 8,
+      "end_hour": 15
+    }
+  }
+}
